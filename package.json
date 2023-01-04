@@ -1,0 +1,22 @@
+{
+  "name": "urbanforge",
+  "displayName": "UrbanForge",
+  "description": "",
+  "version": "0.0.7",
+  "publisher": "urbanforge",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "UrbanForge",
+        "uiTheme": "vs-dark",
+        "path": "./themes/UrbanForge-color-theme.json"
+      }
+    ]
+  }
+}
