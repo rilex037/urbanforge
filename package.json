@@ -1,19 +1,33 @@
 {
-  "name": "urbanforge",
-  "displayName": "UrbanForge",
-  "description": "",
-  "version": "1.0.0",
-  "publisher": "urbanforge",
+  "name": "urbanforge-vscode-theme",
+  "displayName": "UrbanForge Theme",
+  "description": "UrbanForge, visual Studio Code theme",
+  "version": "1.0.1",
+  "icon": "icon.png",
+  "publisher": "UrbanForge",
   "license": "MIT License",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rilex037/urbanforge"
+    "url": "https://github.com/rilex037/urbanforge-vscode-theme"
   },
   "engines": {
     "vscode": "^1.31.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "UrbanForge",
+    "Orange",
+    "Dark",
+    "Theme",
+    "Visual Studio Code",
+    "Vue",
+    "React",
+    "Night",
+    "Pleasant",
+    "Warm",
+    "Soft"
   ],
   "contributes": {
     "themes": [
