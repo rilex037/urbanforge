@@ -2,7 +2,7 @@
   "name": "urbanforge-vscode-theme",
   "displayName": "UrbanForge Theme",
   "description": "UrbanForge, visual Studio Code theme",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "icon": "icon.png",
   "publisher": "UrbanForge",
   "license": "MIT License",

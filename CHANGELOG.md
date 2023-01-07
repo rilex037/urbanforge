@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "urbanforge" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+version 1.2.1
+-------------
+* fixed hover background color on menu items.
+* fixed activity bar debugging and no folder colors.
